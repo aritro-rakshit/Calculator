@@ -1,0 +1,44 @@
+<!-- Made by aritro_rakshit -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="design.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <div id="calculator">
+        <form action="">
+            <input type="text" id="display" ><br>
+            <input type="reset" value="C" id="keys">
+            <input type="button" id="keys" value="<--"onclick="backspace()">
+            <input type="button" value="X^3" id="keys" onclick="power(3)">
+            <input type="button" value="+" id="keys" onclick="addtoscreen('+')"><br>
+
+            <input type="button" value="9" id="keys" onclick="addtoscreen('9')">
+            <input type="button" value="8" id="keys" onclick="addtoscreen('8')">
+            <input type="button" value="7" id="keys" onclick="addtoscreen('7')">
+            <input type="button" value="-" id="keys" onclick="addtoscreen('-')"><br>
+
+            <input type="button" value="6" id="keys" onclick="addtoscreen('6')">
+            <input type="button" value="5" id="keys" onclick="addtoscreen('5')">
+            <input type="button" value="4" id="keys" onclick="addtoscreen('4')">
+            <input type="button" value="*" id="keys" onclick="addtoscreen('*')"><br>
+
+            <input type="button" value="3" id="keys" onclick="addtoscreen('3')">
+            <input type="button" value="2" id="keys" onclick="addtoscreen('2')">
+            <input type="button" value="1" id="keys" onclick="addtoscreen('1')">
+            <input type="button" value="/" id="keys" onclick="addtoscreen('/')"><br>
+
+            <input type="button" value="0" id="keys" onclick="addtoscreen('0')">
+            <input type="button" value="." id="keys" onclick="addtoscreen('.')">
+            <input type="button" value="=" id="keys" onclick="answer()">
+
+        </form>
+
+    </div>
+
+    <script src="logic.js"></script>
+</body>
+</html>
