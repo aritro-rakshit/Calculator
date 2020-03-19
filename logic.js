@@ -26,5 +26,5 @@ function power(y)
 }
 function clear()
 {
-   box.value=0;
+    x=
 }
