@@ -1,3 +1,6 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aritro-rakshit&repo=Calculator&theme=dark&show_owner=true)](https://github.com/dhruv-coder/flask-blog)
+
+
 # Calculator
 This is a basic calculator made with HTML,CSS and JS
 
@@ -7,7 +10,7 @@ Please make sure to update tests as appropriate.
 
 ### Hi there, I'm Aritro Rakshit - aka [Coder][ytb] 👋
 
-![ytb] ~~~ https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)](https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)
+[Channel](https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)
 
 
 ## I'm a Coder , Developer
@@ -20,11 +23,6 @@ Please make sure to update tests as appropriate.
 
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Pyhton , Html and many more]
-
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -32,15 +30,7 @@ Please make sure to update tests as appropriate.
 <!-- YOUTUBE:START -->
 - [Pubg!!](https://www.youtube.com/watch?v=jddr8sAIWPg)
 
-<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g)
-
----
-
-
----
-
-
 
 [ytb]: https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g
